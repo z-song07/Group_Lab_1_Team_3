@@ -7,16 +7,13 @@
  *
  * @author csong
  */
-public class Main {
+public class Member2 {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String args[]) {
-        // Greeting from Member 1
-        Member1.main(args);
-        
-        // Greeting from Member 2
-        Member2.main(args);
+        // Greeting from member 2
+        System.out.println("Hello from Member 2!");
     }
 }
