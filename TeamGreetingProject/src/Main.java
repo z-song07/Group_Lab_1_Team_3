@@ -14,7 +14,7 @@ public class Main {
      */
     public static void main(String args[]) {
         // Greeting from Member 1
-        //Member1.main(args);
+        Member1.main(args);
         
         // Greeting from Member 2
         //Member2.main(args);
