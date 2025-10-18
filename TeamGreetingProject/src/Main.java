@@ -18,5 +18,8 @@ public class Main {
         
         // Greeting from Member 2
         Member2.main(args);
+        
+        //Greeting from member 3
+        Member3.main(args);
     }
 }
